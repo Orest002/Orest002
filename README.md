@@ -109,6 +109,17 @@ Roadmap  ───────────────────────�
 
 ---
 
+## `> writing`
+
+I write about offensive security and the tools I build — clean, technical, no fluff.
+
+- 📄 [Catching DOM-Based XSS: The Bugs Your Proxy Scanner Misses](https://medium.com/@eliesgerfetullayev/dom-based-xss-1cfd0f3bf9e0)
+- 📄 [Reconnaissance from First Principles: What I Learned Building RAVEN](https://medium.com/@eliesgerfetullayev/recon-from-first-principles-3c0fecff78c1)
+
+*More on [Medium →](https://medium.com/@eliesgerfetullayev)*
+
+---
+
 ## `> stats`
 
 <div align="center">
@@ -135,6 +146,7 @@ Roadmap  ───────────────────────�
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/eliesgerfetullayev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliesgerfetullayev@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eliesgerfetullayev)
 [![Website](https://img.shields.io/badge/Vision_Voice_Assist-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://visionvoiceassist.netlify.app)
 
 <br/>
