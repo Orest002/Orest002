@@ -138,6 +138,14 @@ Roadmap ────────────────────────
 
 ## `> skill_map`
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,kali,docker,redhat,raspberrypi,opencv,git,vim&theme=dark" alt="skills"/>
+
+</div>
+
+<br/>
+
 ![Web Exploitation](https://img.shields.io/badge/Web_Exploitation-0b0b0b?style=flat-square)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0b0b0b?style=flat-square)
 ![Recon & OSINT](https://img.shields.io/badge/Recon_&_OSINT-0b0b0b?style=flat-square)
@@ -166,21 +174,6 @@ Roadmap ────────────────────────
 
 ---
 
-## `> featured_projects`
-
-<div align="center">
-
-[![Vision Voice Assist](https://github-readme-stats.vercel.app/api/pin/?username=Orest002&repo=Vision-Voice-Assist&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41)](https://github.com/Orest002/Vision-Voice-Assist)
-[![CYBER-ARSENAL](https://github-readme-stats.vercel.app/api/pin/?username=Orest002&repo=CYBER-ARSENAL&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41)](https://github.com/Orest002/CYBER-ARSENAL)
-[![JARVIS-Ultimate](https://github-readme-stats.vercel.app/api/pin/?username=Orest002&repo=JARVIS-Ultimate&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41)](https://github.com/Orest002/JARVIS-Ultimate)
-[![ZeroDayLab](https://github-readme-stats.vercel.app/api/pin/?username=Orest002&repo=ZeroDayLab&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41)](https://github.com/Orest002/ZeroDayLab)
-[![Eye-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Orest002&repo=Eye-Tracker&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41)](https://github.com/Orest002/Eye-Tracker)
-[![RHCSA Home Lab](https://github-readme-stats.vercel.app/api/pin/?username=Orest002&repo=RHCSA-Home-Lab&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41)](https://github.com/Orest002/RHCSA-Home-Lab)
-
-</div>
-
----
-
 ## `> writing`
 
 I write about offensive security and the tools I build — clean, technical, no fluff.
@@ -196,8 +189,11 @@ I write about offensive security and the tools I build — clean, technical, no 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Orest002&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41" alt="GitHub stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orest002&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orest002&theme=chartreuse_dark" width="100%" alt="Profile details"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Orest002&theme=chartreuse_dark" alt="GitHub stats"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orest002&theme=chartreuse_dark" alt="Repos per language"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Orest002&theme=chartreuse_dark" alt="Most commit language"/>
 
 <br/>
 
@@ -205,9 +201,7 @@ I write about offensive security and the tools I build — clean, technical, no 
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Orest002&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Orest002&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity graph"/>
+<img src="https://github-trophies.vercel.app/?username=Orest002&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
 
 </div>
 
